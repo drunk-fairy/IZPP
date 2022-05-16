@@ -1,0 +1,4 @@
+E:\University\виконані завдання\ІЗПП\lab 4\lab4_2\lab4_2\x64\Debug\lab4_2.vcxproj.AssemblyReference.cache
+E:\University\виконані завдання\ІЗПП\lab 4\lab4_2\lab4_2\x64\Debug\lab4_2.vcxproj.SuggestedBindingRedirects.cache
+E:\University\виконані завдання\ІЗПП\lab 4\lab4_2\lab4_2\x64\Debug\lab42.form2.resources
+E:\University\виконані завдання\ІЗПП\lab 4\lab4_2\lab4_2\x64\Debug\lab4_2.vcxproj.GenerateResource.cache

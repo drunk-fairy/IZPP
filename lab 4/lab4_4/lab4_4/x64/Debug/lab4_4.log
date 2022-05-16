@@ -1,0 +1,4 @@
+﻿  form4.cpp
+E:\University\виконані завдання\ІЗПП\lab 4\lab4_4\lab4_4\form4.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  form4.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab4_4.vcxproj -> E:\University\виконані завдання\ІЗПП\lab 4\lab4_4\x64\Debug\lab4_4.exe
