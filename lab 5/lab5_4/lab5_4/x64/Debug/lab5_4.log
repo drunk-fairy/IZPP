@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  form4.cpp
+E:\University\виконані завдання\IZPP\lab 5\lab5_4\lab5_4\form4.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  form4.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab5_4.vcxproj -> E:\University\виконані завдання\IZPP\lab 5\lab5_4\lab5_4\2\lab5_4.exe

@@ -1,0 +1,5 @@
+﻿  form3.cpp
+E:\University\виконані завдання\IZPP\lab 5\lab5_3\lab5_3\form3.h(266,9): warning C4101: 'tmp': unreferenced local variable
+E:\University\виконані завдання\IZPP\lab 5\lab5_3\lab5_3\form3.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  form3.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab5_3.vcxproj -> E:\University\виконані завдання\IZPP\lab 5\lab5_3\x64\Debug\lab5_3.exe
