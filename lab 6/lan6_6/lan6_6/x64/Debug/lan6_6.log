@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (lan6_6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  form6.cpp
+E:\University\виконані завдання\IZPP\lab 6\lan6_6\lan6_6\form6.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  form6.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lan6_6.vcxproj -> E:\University\виконані завдання\IZPP\lab 6\lan6_6\x64\Debug\lab6_6.exe

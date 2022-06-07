@@ -1,0 +1,5 @@
+﻿  form4.cpp
+E:\University\виконані завдання\IZPP\lab 6\lab6_4\lab6_4\form4.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+E:\University\виконані завдання\IZPP\lab 6\lab6_4\lab6_4\form4.h(248): warning C4700: uninitialized local variable 'sum_0' used
+  form4.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab6_4.vcxproj -> E:\University\виконані завдання\IZPP\lab 6\lab6_4\x64\Debug\lab6_4.exe
