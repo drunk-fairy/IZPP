@@ -1,0 +1,10 @@
+﻿  form1.cpp
+E:\University\виконані завдання\IZPP\lab 8\lab8\lab8\form1.h(428,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\University\виконані завдання\IZPP\lab 8\lab8\lab8\form1.h(435,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\University\виконані завдання\IZPP\lab 8\lab8\lab8\form1.h(442,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\University\виконані завдання\IZPP\lab 8\lab8\lab8\form1.h(449,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\University\виконані завдання\IZPP\lab 8\lab8\lab8\form1.h(456,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\University\виконані завдання\IZPP\lab 8\lab8\lab8\form1.h(461,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\University\виконані завдання\IZPP\lab 8\lab8\lab8\form1.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  form1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab8.vcxproj -> E:\University\виконані завдання\IZPP\lab 8\lab8\x64\Debug\lab8.exe
