@@ -1,0 +1,11 @@
+﻿  form1.cpp
+E:\University\виконані завдання\IZPP\lab 7\lab7_1\lab7_1\form1.h(380,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\виконані завдання\IZPP\lab 7\lab7_1\lab7_1\form1.h(380,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\виконані завдання\IZPP\lab 7\lab7_1\lab7_1\form1.h(380,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\виконані завдання\IZPP\lab 7\lab7_1\lab7_1\form1.h(381,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\виконані завдання\IZPP\lab 7\lab7_1\lab7_1\form1.h(381,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\виконані завдання\IZPP\lab 7\lab7_1\lab7_1\form1.h(381,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\виконані завдання\IZPP\lab 7\lab7_1\lab7_1\form1.h(387,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\University\виконані завдання\IZPP\lab 7\lab7_1\lab7_1\form1.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  form1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab7_1.vcxproj -> E:\University\виконані завдання\IZPP\lab 7\lab7_1\x64\Debug\lab7_1.exe
